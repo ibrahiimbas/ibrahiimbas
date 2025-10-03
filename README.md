@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Tools and Languages</h3>
+<h2 align="center">Tools and Languages</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Stats</h3>
+<h2 align="center">Stats</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="right">Contact Me</h4>
+<h3 align="right">Contact Me</h3>
 
 ###
 
