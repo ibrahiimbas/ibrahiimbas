@@ -1,13 +1,15 @@
-
-<p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/b139da75-1f3c-42a6-9df9-4b594a5edb19">
-</p>
-
-
+<div align="center" style="display: flex; align-items: center; gap: 100px;">
+  <img src="https://github.com/user-attachments/assets/b139da75-1f3c-42a6-9df9-4b594a5edb19" alt="GIF" width="300"/>
+  
+  <div>
+    <h1>İbrahim Emre BAŞ</h1>
+    <p>Game Developer</p>
+  </div>
+</div>
 
 ###
 
-<h1 align="center">Tools and Languages</h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="128"/> Tools and Languages  <img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="128"/></h1>
 
 ###
 
@@ -27,7 +29,7 @@
 
 ###
 
-<h1 align="center">Stats</h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/2801153b-1390-49f9-82fb-a600800931da" width="48"/> Stats   <img src="https://github.com/user-attachments/assets/2801153b-1390-49f9-82fb-a600800931da" width="48"/></h1>
 
 ###
 
@@ -39,10 +41,9 @@
 ###
 
 
-
 ###
 
-<h3 align="right">Contact Me</h3>
+<h3 align="right"><img src="https://github.com/user-attachments/assets/8b140eee-1bae-46b6-b08f-f3f8d12ccc60" width="64"/>Contact Me<img src="https://github.com/user-attachments/assets/8b140eee-1bae-46b6-b08f-f3f8d12ccc60" width="64"/></h3>
 
 ###
 
