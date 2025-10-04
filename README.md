@@ -43,11 +43,11 @@
 
 ###
 
-<h3 align="right"><img src="https://github.com/user-attachments/assets/8b140eee-1bae-46b6-b08f-f3f8d12ccc60" width="64"/>Contact Me<img src="https://github.com/user-attachments/assets/8b140eee-1bae-46b6-b08f-f3f8d12ccc60" width="64"/></h3>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/8b140eee-1bae-46b6-b08f-f3f8d12ccc60" width="64"/>Contact Me<img src="https://github.com/user-attachments/assets/8b140eee-1bae-46b6-b08f-f3f8d12ccc60" width="64"/></h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/ibrahimbas15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
