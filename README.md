@@ -1,10 +1,13 @@
 
+<p align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/b139da75-1f3c-42a6-9df9-4b594a5edb19">
+</p>
 
-<h3 align="center">-----------------------------------------</h3>
+
 
 ###
 
-<h2 align="center">Tools and Languages</h2>
+<h1 align="center">Tools and Languages</h1>
 
 ###
 
@@ -20,11 +23,11 @@
 
 ###
 
-<h3 align="center">-----------------------------------------</h3>
+
 
 ###
 
-<h2 align="center">Stats</h2>
+<h1 align="center">Stats</h1>
 
 ###
 
@@ -35,7 +38,7 @@
 
 ###
 
-<h3 align="center">-----------------------------------------</h3>
+
 
 ###
 
