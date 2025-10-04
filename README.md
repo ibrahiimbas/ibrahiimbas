@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center"><img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="128"/> Tools and Languages  <img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="128"/></h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="72"/> Tools and Languages  <img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="72"/></h1>
 
 ###
 
