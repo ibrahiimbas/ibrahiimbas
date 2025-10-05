@@ -94,6 +94,10 @@
   
 </div>
 
+<p>   </p>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=1000&pause=1000&color=97F700&background=00060000&center=true&vCenter=true&width=256&height=32&lines=......" alt="Typing SVG" /></a></p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ###
