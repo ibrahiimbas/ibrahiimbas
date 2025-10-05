@@ -1,6 +1,5 @@
 <div align="center" style="display: flex; align-items: center; gap: 100px;">
   <img src="https://github.com/user-attachments/assets/b139da75-1f3c-42a6-9df9-4b594a5edb19" alt="GIF" width="300"/>
-  
   <div>
     <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4500&pause=9999999999&color=97F700&background=00060000&center=true&vCenter=true&width=512&height=36&lines=Ibrahim+Emre+Bas" alt="Typing SVG" /></a></p>
     <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=4500&pause=5000&color=ADF738FF&background=00060000&center=true&vCenter=true&width=256&height=32&lines=Game+Developer" alt="Typing SVG" /></a></p>
@@ -8,7 +7,7 @@
 </div>
 
 ###
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/user-attachments/assets/869dbeef-4e2d-4e6f-a763-9b7021f4503c" height="72" width="100%">
 
 <p align="center"><img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="72"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=5000&color=F70000FF&background=00060000&center=true&vCenter=true&width=512&height=64&lines=Tools+and+Languages" alt="Typing SVG" /></a>  <img src="https://github.com/user-attachments/assets/3b2fc438-62c9-4e74-83c5-beaeddfb4b04" width="72"/></p>
 
@@ -33,7 +32,7 @@
 
 ###
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/user-attachments/assets/869dbeef-4e2d-4e6f-a763-9b7021f4503c" height="72" width="100%">
 
 ###
 
@@ -59,6 +58,9 @@
 ###
 
 <div align="center">
+
+  <img src="https://github.com/user-attachments/assets/2051587e-19cb-436d-9ce1-35106bbfced5" alt="GIF" width="36"/>
+ 
   <a href="https://www.linkedin.com/in/ibrahimbas15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -87,6 +89,8 @@
    <a href="https://github.com/user-attachments/files/22708675/CV-Ibrahim.Emre.BAS.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume"  />
   </a>
+
+   <img src="https://github.com/user-attachments/assets/2051587e-19cb-436d-9ce1-35106bbfced5" alt="GIF" width="36"/>
   
 </div>
 
