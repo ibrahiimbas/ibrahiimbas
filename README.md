@@ -17,11 +17,18 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"  />
+  <img width="25" />  
+
+ <img src="https://github.com/user-attachments/assets/24cca59e-b339-43f7-96fb-d57734cb34e1" height="48" alt="hlsl"  />
+  <img width="25" />  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender"  />
+   <img width="25" />  
 </div>
 
 ###
@@ -41,6 +48,8 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahiimbas&bg_color=0d1117&color=1eff00&line=538000&point=11ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ###
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -64,6 +73,15 @@
   <a href="https://stackoverflow.com/users/29459990/synthesizer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
+
+<a href="https://www.artstation.com/synthesizer15" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ArtStation&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="artstation"  />
+  </a>
+
+  <a href="https://steamcommunity.com/id/ibrahim1515/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="steam"  />
+  </a>
+  
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
