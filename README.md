@@ -64,11 +64,13 @@
   </a>
 
 
-    
   <a href="mailto:ibrahimbas1414@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=tomato&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 
+  <a href="https://synthseizer.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itchdotio&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itchio logo"  />
+  </a>
   
   <a href="https://stackoverflow.com/users/29459990/synthesizer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
