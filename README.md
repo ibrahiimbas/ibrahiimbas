@@ -77,11 +77,15 @@
   </a>
 
 <a href="https://www.artstation.com/synthesizer15" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ArtStation&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="artstation"  />
+    <img src="https://img.shields.io/static/v1?message=ArtStation&logo=artstation&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="artstation"  />
   </a>
 
   <a href="https://steamcommunity.com/id/ibrahim1515/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="steam"  />
+  </a>
+
+   <a href="https://github.com/user-attachments/files/22708675/CV-Ibrahim.Emre.BAS.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume"  />
   </a>
   
 </div>
