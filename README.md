@@ -1,8 +1,8 @@
 <div align="center" style="display: flex; align-items: center; gap: 100px;">
   <img src="https://github.com/user-attachments/assets/b139da75-1f3c-42a6-9df9-4b594a5edb19" alt="GIF" width="300"/>
   <div>
-    <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4500&pause=9999999999&color=97F700&background=00060000&center=true&vCenter=true&width=512&height=36&lines=Ibrahim+Emre+Bas" alt="Typing SVG" /></a></p>
-    <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=4500&pause=5000&color=ADF738FF&background=00060000&center=true&vCenter=true&width=256&height=32&lines=Game+Developer" alt="Typing SVG" /></a></p>
+    <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4500&pause=9999999999&color=fb7e14&background=00060000&center=true&vCenter=true&width=512&height=36&lines=Ibrahim+Emre+Bas" alt="Typing SVG" /></a></p>
+    <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=4500&pause=5000&color=fb7e14&background=00060000&center=true&vCenter=true&width=256&height=32&lines=Game+Developer" alt="Typing SVG" /></a></p>
   </div>
 </div>
 
